@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-number-generator/static/css/main.7426a77c.css",
+    "main.js": "/random-number-generator/static/js/main.b469c599.js",
+    "static/js/453.a34a4702.chunk.js": "/random-number-generator/static/js/453.a34a4702.chunk.js",
+    "index.html": "/random-number-generator/index.html",
+    "main.7426a77c.css.map": "/random-number-generator/static/css/main.7426a77c.css.map",
+    "main.b469c599.js.map": "/random-number-generator/static/js/main.b469c599.js.map",
+    "453.a34a4702.chunk.js.map": "/random-number-generator/static/js/453.a34a4702.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7426a77c.css",
+    "static/js/main.b469c599.js"
+  ]
+}
