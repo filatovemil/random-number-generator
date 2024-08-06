@@ -1,0 +1,19 @@
+.random-number-generator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .input-group {
+    margin: 10px 0;
+  }
+  
+  .input-group label {
+    margin-right: 10px;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
